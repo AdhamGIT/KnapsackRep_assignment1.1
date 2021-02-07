@@ -2,6 +2,7 @@
 using namespace std;
 
 // A utility function that returns maximum of two integers
+
 int max(int a, int b)
 	{
 	return (a > b) ? a : b; 
@@ -35,4 +36,5 @@ int main()
 	
 	return 0;
 }
+
 // This code is contributed by rathbhupendra
